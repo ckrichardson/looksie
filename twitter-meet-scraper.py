@@ -38,5 +38,5 @@ async def send_results():
 
 
 
-bot.run("NjkyNjQwNTcwOTQxNjM2NjU5.XnxeBg.V0r_nobs1IuMhKrYpOE6cEBTHVE")
+bot.run("Your_Discord_Token_Here")
 
